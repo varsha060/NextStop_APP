@@ -1,0 +1,5 @@
+{
+  "name": "Live Bus Tracker Demo",
+  "description": "A frontend web application demonstrating a bus tracking simulation with mock GPS, prediction modes, low-data views, and other interactive features using React and Leaflet.js.",
+  "requestFramePermissions": []
+}
